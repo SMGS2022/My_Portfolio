@@ -13,6 +13,6 @@
    - Resume
    - Contact me page
     
- ## Thank You!
+ ## Thank You! :handshake:
  
- Thank you for taking the time to explore my website! :smile:
+ Thank you for taking the time to explore my website!
