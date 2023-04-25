@@ -10,7 +10,6 @@
    - Projects page
    - Links to social media i.e LinkedIn and Tableau
    - About me page
-   - Resume
    - Contact me page
     
  ## Thank You! :handshake:
